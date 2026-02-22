@@ -139,18 +139,18 @@ Question:
 
 LABORATORY QUESTIONS
 Part A – Technical Questions
-1. What are the five columns in the dataset?
-2. What data type is assigned to the “Sales” column?
-3. Which Power BI view allows you to see raw data?
-4. What chart type is best for showing trends over time?
-5. What aggregation is automatically applied to Sales?
+1. What are the five columns in the dataset? **Answers: Category, Date, Product, Region, Sales**
+2. What data type is assigned to the “Sales” column? **Answer: Whole Number**
+3. Which Power BI view allows you to see raw data? **Answer: Table View**
+4. What chart type is best for showing trends over time? **Answer : Line Chart**
+5. What aggregation is automatically applied to Sales? **Answer: Stacked Column Chart**
 
 Part B – Analytical Questions
-6. Which region has the highest total sales?
-7. Which category has the lowest performance?
-8. Are sales increasing, decreasing, or stable?
-9. If you were a manager, which region would you prioritize?
-10. Provide one actionable recommendation based on the data.
+6. Which region has the highest total sales?  **Answer: West**
+7. Which category has the lowest performance? **North**
+8. Are sales increasing, decreasing, or stable? **Answer : The sales are decreasing**
+9. If you were a manager, which region would you prioritize? **Answer : I would prioritize in the most profitable region and focus on the category that are most purchased, leverage on strong market**
+10. Provide one actionable recommendation based on the data. **Answer: understand the data, determine what the cause of declining sales and take preventive notion for it, and also focus on what category and region has most profitable and those other must put other examine**
 
 
 
